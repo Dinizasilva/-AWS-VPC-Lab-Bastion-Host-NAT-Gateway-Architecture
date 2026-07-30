@@ -1,8 +1,9 @@
 # -AWS-VPC-Lab-Bastion-Host-NAT-Gateway-Architecture
 
 <p align="center">
-  <img width="700" src="https://github.com/user-attachments/assets/ebf77768-7c7a-4707-be9e-4..." />
+<img src="https://github.com/user-attachments/assets/f6fb8045-107e-48d5-bf47-92445c31097c" width="700">
 </p>
+
 # ☁️ AWS VPC Lab: Bastion Host & NAT Gateway
 
 Laboratório prático de **VPC** na AWS focando em segurança, roteamento e conectividade de instâncias privadas com a internet.
