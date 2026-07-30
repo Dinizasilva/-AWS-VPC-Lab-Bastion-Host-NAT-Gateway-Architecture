@@ -17,7 +17,6 @@ Simular um cenário real de mercado em que recursos sensíveis (aplicações e b
 - **Route Tables** corretamente configuradas
 
 ### 🏗️ Arquitetura
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d4197414-cd02-4226-8ac8-6ba02f6640f2" width="700">
 </p>
