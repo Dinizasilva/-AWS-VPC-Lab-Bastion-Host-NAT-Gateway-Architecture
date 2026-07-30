@@ -1,7 +1,9 @@
 # -AWS-VPC-Lab-Bastion-Host-NAT-Gateway-Architecture
-Segurança, Roteamento e Conectividade de Instâncias Privadas à Internet.
 
-Lab: Bastion Host & NAT Gateway
+<p align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/ebf77768-7c7a-4707-be9e-4..." />
+</p>
+# ☁️ AWS VPC Lab: Bastion Host & NAT Gateway
 
 Laboratório prático de **VPC** na AWS focando em segurança, roteamento e conectividade de instâncias privadas com a internet.
 
@@ -15,7 +17,9 @@ Simular um cenário real de mercado em que recursos sensíveis (aplicações e b
 
 ## 🏗️ Arquitetura
 
-
+<p align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/a45ca37a-bca9-4567-00d8350a578e" />
+</p>
 
 - **Public Subnet**: Bastion Host + NAT Gateway
 - **Private Subnet**: Instância de aplicação/banco
@@ -35,3 +39,17 @@ nslookup google.com
 
 # Teste de atualização (exemplo Amazon Linux)
 sudo dnf update -y
+
+Resultado obtido: 0% packet loss (Zero perda de pacotes), confirmando o sucesso do roteamento via NAT Gateway.
+
+📸 Evidência do Laboratório
+(Insira aqui a imagem gerada do seu setup ou a captura de tela do terminal com o resultado do ping)
+
+💡 Principais Aprendizados
+Configuração e associação de Tabelas de Rotas (Route Tables) na AWS.
+
+Implementação de boas práticas de segurança utilizando Bastion Hosts para acesso SSH controlado.
+
+Resolução de problemas de rede, diagnóstico de rotas e validação de pacotes via terminal Linux.
+
+Desenvolvido por Eliana Diniz 🚀
