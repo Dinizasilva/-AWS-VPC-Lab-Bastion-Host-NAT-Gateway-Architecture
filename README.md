@@ -4,11 +4,11 @@
 <img src="https://github.com/user-attachments/assets/f6fb8045-107e-48d5-bf47-92445c31097c" width="700">
 </p>
 
-## ☁️ AWS VPC Lab: Bastion Host & NAT Gateway
+### ☁️ AWS VPC Lab: Bastion Host & NAT Gateway
 
 Laboratório prático de **VPC** na AWS focando em segurança, roteamento e conectividade de instâncias privadas com a internet.
 
-## 🎯 Objetivo
+### 🎯 Objetivo
 
 Simular um cenário real de mercado em que recursos sensíveis (aplicações e bancos de dados) ficam em subnets privadas, sem exposição direta à internet, utilizando:
 
@@ -16,7 +16,7 @@ Simular um cenário real de mercado em que recursos sensíveis (aplicações e b
 - **NAT Gateway** para saída controlada à internet
 - **Route Tables** corretamente configuradas
 
-## 🏗️ Arquitetura
+### 🏗️ Arquitetura
 
 <p align="center">
   <img width="700" src="https://github.com/user-attachments/assets/a45ca37a-bca9-4567-00d8350a578e" />
@@ -27,7 +27,7 @@ Simular um cenário real de mercado em que recursos sensíveis (aplicações e b
 - Tráfego de saída da privada → NAT Gateway
 - Acesso à privada apenas via Bastion (SSH)
 
-## ✅ Validação de Conectividade
+### ✅ Validação de Conectividade
 
 Na instância privada:
 
