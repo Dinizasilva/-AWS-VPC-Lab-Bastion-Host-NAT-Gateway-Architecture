@@ -19,7 +19,7 @@ Simular um cenário real de mercado em que recursos sensíveis (aplicações e b
 ### 🏗️ Arquitetura
 
 <p align="center">
-  <img width="700" src="https://github.com/user-attachments/assets/a45ca37a-bca9-4567-00d8350a578e" />
+  ![Diagrama de Arquitetura](https://github.com/usuario/repositorio/blob/main/assets/sua-imagem.png)
 </p>
 
 - **Public Subnet**: Bastion Host + NAT Gateway
