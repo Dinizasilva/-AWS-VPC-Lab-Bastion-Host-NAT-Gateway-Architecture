@@ -1,4 +1,4 @@
-# AWS-VPC-Lab-Bastion-Host-NAT-Gateway-Architecture
+### AWS-VPC-Lab-Bastion-Host-NAT-Gateway-Architecture
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f6fb8045-107e-48d5-bf47-92445c31097c" width="700">
