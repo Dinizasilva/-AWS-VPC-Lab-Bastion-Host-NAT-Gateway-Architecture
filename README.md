@@ -17,7 +17,6 @@ Simular um cenário real de mercado em que recursos sensíveis (aplicações e b
 
 
 
-
 - **Public Subnet**: Bastion Host + NAT Gateway
 - **Private Subnet**: Instância de aplicação/banco
 - Tráfego de saída da privada → NAT Gateway
